@@ -4,10 +4,10 @@ Ok, you have practiced three methods to visualize change. Let's turn to the lab 
 # Palomar Neighborhood
 ## Change from 2010 to 2020
 
-The neighborhood has experienced significant change. The large area that was once just land has several new houses that have been built. There also has been some trees removed in the process
+The neighborhood has experienced significant change. The large area that was once just land has several new houses that have been built. There's also been tree removal during this time period.
 
-![change from 2001 to 2019](palomarchange.jpg)
+![change from 2001 to 2019](newLayout.jpg)
 *Caption of Map*
 
-[Download pdf](mod6Layout.pdf)     
+[Download pdf](thenewLayout.pdf)     
 
