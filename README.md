@@ -9,5 +9,5 @@ The neighborhood has experienced significant change. The large area that was onc
 ![change from 2001 to 2019](newLayout.jpg)
 *Caption of Map*
 
-[Download pdf]([label](../mod%206/thenewLayout.pdf))     
+[Download pdf](thenewLayout.pdf)     
 
